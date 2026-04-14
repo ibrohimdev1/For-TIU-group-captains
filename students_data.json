@@ -1,0 +1,168 @@
+{
+  "1973206821": {
+    "lang": "uz",
+    "students": [
+      "Asilbekov Akmal",
+      "Axmatov Salohiddin",
+      "Bahodirov Behzod",
+      "Baxtiyorov Nurbek",
+      "Djalilov Baxtiyor",
+      "Hamidullayev Abdurahmon",
+      "Hasanov Ibrohim",
+      "Isroilov Jamshidbek",
+      "Mansurova Muslima",
+      "Nabiyev Xasanboy",
+      "Numonov Shohjaxon",
+      "Odiljonov Behruz",
+      "Pardabayev Madiyor",
+      "Saidmurodova Jamila",
+      "Sharafiddinov Salohiddin",
+      "Shavkatov Dilmurod",
+      "Turgunbayev Raxmonbek",
+      "Xolmurzayeva Zilola",
+      "Zoirjonova Malika"
+    ],
+    "attendance_history": [
+      {
+        "group": "DI-1-25",
+        "period": 1,
+        "date": "14.04.2026 14:49",
+        "present_students": [
+          "Asilbekov Akmal",
+          "Axmatov Salohiddin",
+          "Bahodirov Behzod",
+          "Baxtiyorov Nurbek",
+          "Djalilov Baxtiyor",
+          "Hamidullayev Abdurahmon",
+          "Hasanov Ibrohim",
+          "Isroilov Jamshidbek",
+          "Mansurova Muslima",
+          "Nabiyev Xasanboy",
+          "Numonov Shohjaxon",
+          "Odiljonov Behruz",
+          "Pardabayev Madiyor",
+          "Sharafiddinov Salohiddin",
+          "Turgunbayev Raxmonbek",
+          "Xolmurzayeva Zilola",
+          "Zoirjonova Malika"
+        ],
+        "absent_students": [
+          "Saidmurodova Jamila",
+          "Shavkatov Dilmurod"
+        ]
+      },
+      {
+        "group": "DI-1-25",
+        "period": 1,
+        "date": "14.04.2026 14:53",
+        "present_students": [
+          "Asilbekov Akmal",
+          "Baxtiyorov Nurbek",
+          "Djalilov Baxtiyor",
+          "Hasanov Ibrohim",
+          "Numonov Shohjaxon",
+          "Odiljonov Behruz",
+          "Pardabayev Madiyor",
+          "Shavkatov Dilmurod",
+          "Turgunbayev Raxmonbek"
+        ],
+        "absent_students": [
+          "Axmatov Salohiddin",
+          "Bahodirov Behzod",
+          "Hamidullayev Abdurahmon",
+          "Isroilov Jamshidbek",
+          "Mansurova Muslima",
+          "Nabiyev Xasanboy",
+          "Saidmurodova Jamila",
+          "Sharafiddinov Salohiddin",
+          "Xolmurzayeva Zilola",
+          "Zoirjonova Malika"
+        ]
+      },
+      {
+        "group": "DI-1-25",
+        "period": 1,
+        "date": "14.04.2026 15:00",
+        "present_students": [
+          "Djalilov Baxtiyor",
+          "Mansurova Muslima",
+          "Pardabayev Madiyor",
+          "Turgunbayev Raxmonbek"
+        ],
+        "absent_students": [
+          "Asilbekov Akmal",
+          "Axmatov Salohiddin",
+          "Bahodirov Behzod",
+          "Baxtiyorov Nurbek",
+          "Hamidullayev Abdurahmon",
+          "Hasanov Ibrohim",
+          "Isroilov Jamshidbek",
+          "Nabiyev Xasanboy",
+          "Numonov Shohjaxon",
+          "Odiljonov Behruz",
+          "Saidmurodova Jamila",
+          "Sharafiddinov Salohiddin",
+          "Shavkatov Dilmurod",
+          "Xolmurzayeva Zilola",
+          "Zoirjonova Malika"
+        ]
+      },
+      {
+        "group": "DI-1-25",
+        "period": 1,
+        "date": "14.04.2026 15:01",
+        "present_students": [
+          "Axmatov Salohiddin",
+          "Bahodirov Behzod",
+          "Baxtiyorov Nurbek",
+          "Djalilov Baxtiyor",
+          "Hasanov Ibrohim",
+          "Isroilov Jamshidbek",
+          "Mansurova Muslima",
+          "Nabiyev Xasanboy",
+          "Numonov Shohjaxon",
+          "Pardabayev Madiyor",
+          "Saidmurodova Jamila",
+          "Sharafiddinov Salohiddin",
+          "Shavkatov Dilmurod",
+          "Turgunbayev Raxmonbek",
+          "Xolmurzayeva Zilola",
+          "Zoirjonova Malika"
+        ],
+        "absent_students": [
+          "Asilbekov Akmal",
+          "Hamidullayev Abdurahmon",
+          "Odiljonov Behruz"
+        ]
+      },
+      {
+        "group": "DI-1-25",
+        "period": 2,
+        "date": "14.04.2026 15:02",
+        "present_students": [
+          "Asilbekov Akmal",
+          "Bahodirov Behzod",
+          "Baxtiyorov Nurbek",
+          "Djalilov Baxtiyor",
+          "Hamidullayev Abdurahmon",
+          "Hasanov Ibrohim",
+          "Isroilov Jamshidbek",
+          "Mansurova Muslima",
+          "Nabiyev Xasanboy",
+          "Odiljonov Behruz",
+          "Pardabayev Madiyor",
+          "Shavkatov Dilmurod",
+          "Xolmurzayeva Zilola",
+          "Zoirjonova Malika"
+        ],
+        "absent_students": [
+          "Axmatov Salohiddin",
+          "Numonov Shohjaxon",
+          "Saidmurodova Jamila",
+          "Sharafiddinov Salohiddin",
+          "Turgunbayev Raxmonbek"
+        ]
+      }
+    ]
+  }
+}
